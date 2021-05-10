@@ -3,7 +3,7 @@ Designing, Implementing &amp; Deploying Transformer Deep Learning Network Archit
 
 Reference for Medium & Towards Data Science Article. 
 
-Link: 
+Link: https://ajay-arunachalam08.medium.com/covid-non-covid-classifier-with-sota-vision-transformer-model-97375c774ff7
 
 ## Vision Transformer 
 
